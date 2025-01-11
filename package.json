@@ -1,0 +1,30 @@
+{
+  "name": "atttt",
+  "version": "1.0.0",
+  "description": "A sample project for Azure deployment",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"Building the project...\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAry-Byun/atttt.git"
+  },
+  "keywords": [],
+  "author": "NAry Byun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NAry-Byun/atttt/issues"
+  },
+  "homepage": "https://github.com/NAry-Byun/atttt#readme",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
