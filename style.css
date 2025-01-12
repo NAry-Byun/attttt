@@ -321,7 +321,7 @@ body {
   }
   .bottom-2 a:hover {
     color: #1ed760;
-    text-decoration: none; /* Remove underline on hover */
+    text-decoration: none; 
   }
   
   .bottom-1 {
